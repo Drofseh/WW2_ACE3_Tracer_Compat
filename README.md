@@ -8,10 +8,10 @@
 #### WW2/ACE3 Tracer Compat is a mod for ARMA3 that adds ACE3 Tracers to FOW, IFA3, and LEN ammunition.
 
 #### Required dependencies:
-* [IFA3 Lite](https://forums.bistudio.com/forums/topic/190809-iron-front-in-arm3-lite-preview-versions/) - Preview v23
-* [FOW](https://forums.bistudio.com/forums/topic/198194-faces-of-war-ww2/) - Release IV
-* [LEN Weapons](https://forums.bistudio.com/forums/topic/200914-len-weapons-pack-for-ifa3-lite/) v1.0
-* [ACE3](https://github.com/acemod/ACE3) v3.1x.0, Tracers
+* Required for all: [ACE3](https://github.com/acemod/ACE3) v3.1x.0, Tracers
+- IFA3_ACE3_Tracer_Compat.pbo requires [IFA3 Lite](https://forums.bistudio.com/forums/topic/190809-iron-front-in-arm3-lite-preview-versions/) - Preview v23
+- LEN_ACE3_Tracer_Compat.pbo requires [LEN Weapons](https://forums.bistudio.com/forums/topic/200914-len-weapons-pack-for-ifa3-lite/) v1.0
+- FOW_ACE3_Tracer_Compat.pbo requires [FOW](https://forums.bistudio.com/forums/topic/198194-faces-of-war-ww2/) - Release IV
 
 #### Releases
 Releases can be found [here](https://github.com/Drofseh/WW2_ACE3_Tracer_Compat/releases)

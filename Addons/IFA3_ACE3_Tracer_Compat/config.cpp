@@ -29,10 +29,6 @@ class cfgAmmo {
     class B_9x21_Ball;
     class B_762x51_Ball;
 
-    #include "FOW_Ammo.h"
-
     #include "LIB_Ammo.h"
-
-    #include "LEN_Ammo.h"
 
 };
