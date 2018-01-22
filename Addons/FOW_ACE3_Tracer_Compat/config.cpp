@@ -3,7 +3,7 @@
         author = "Wilhelm Haas";
         units[] = {};
         weapons[] = {};
-        requiredAddons[] = {"ace_tracers","fow_weapons_c",};
+        requiredAddons[] = {"ace_tracers","fow_weapons_c"};
     };
  };
 
