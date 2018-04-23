@@ -1,6 +1,6 @@
 name = "WW2/ACE3 Tracer Compat";
 author = "Wilhelm Haas (2PzD)";
-description = "WW2/ACE3 Tracer Compat - Version 1.0.0";
+description = "WW2/ACE3 Tracer Compat - Version 1.1.0";
 overview = "This mod adds ACE3 Tracers to FOW, IFA3, and LEN Weapons ammunition.";
 logo = "Images\logo.paa";
 logoOver = "Images\logo.paa";
