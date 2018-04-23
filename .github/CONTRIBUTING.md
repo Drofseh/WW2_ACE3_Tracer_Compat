@@ -15,7 +15,7 @@ Add a descriptive title and complete the issue template.
 Pictures or a video of the issue might be helpful in resolving it faster.
 
 # Feature Requests
-A single issue has been created for tracking [feature requests](https://github.com/Drofseh/WW2_ACE3_Tracer_Compat/issues/3).
+A single issue has been created for tracking [feature requests](https://github.com/Drofseh/WW2_ACE3_Tracer_Compat/issues/1).
 
 Please post a comment there if you have a feature request.
 
